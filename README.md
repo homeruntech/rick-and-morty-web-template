@@ -1,3 +1,3 @@
-# rick-and-morty-native-template
+# rick-and-morty-web-template
 
 Write any necessary instructions here useful for running this project.
