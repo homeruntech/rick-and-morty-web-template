@@ -16,9 +16,11 @@ The project has already the following scripts setup:
 
 - `build`: Builds the NextJS app for production usage
 - `dev`: Starts the NextJS app in development mode
-- `test`: Run tests using Jest
-- `typecheck`: Typecheck code with TypeScript
+- `format`: Run code formatter
+- `lint`: Run the linter
 - `start`: Starts the NextJS production server
+- `test`: Run tests
+- `typecheck`: Typecheck code with TypeScript
 
 Styling the app with a CSS-in-JS solution, like styled-components, is a plus. You should not use ready-to-use design system libraries (e.g., Chakra UI, Material UI, Bootstrap, etc.).
 
@@ -28,7 +30,7 @@ You’re free to pick the vendors you consider necessary for the exercise, but b
 
 The project shouldn’t rely on global dependencies. The coding challenge will be considered unsuccessful if the project won’t compile after we install its dependencies.
 
-The version of Node that should be used to run this project is specified in the `.nvmrc` file. If you want to use a different version, you should update `.nvmrc` accordingly.
+The version of Node that should be used to run this project is specified in the `.node-version` file. If you want to use a different version, you should update `.node-version` accordingly.
 
 ## Definition of done
 
@@ -61,13 +63,15 @@ The score will depend on the following evaluation criteria, listed below in alph
 - Performance
 - Submission time
 - Tests
+- Extras (e.g., CI/CD, documentation, innovation, tooling, functional programming)
 
 Host your project in a **private** Github repository, then add as collaborators:
 
+- alpalla
 - aydncnar
-- kyarik
 - paolorovella
 - sibest19
+- tommaso-sebastianelli
 - valeriobelli
 
 You can then send us the link via email when the project is ready to be reviewed.
