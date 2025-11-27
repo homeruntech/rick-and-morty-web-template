@@ -67,7 +67,6 @@ The score will depend on the following evaluation criteria, listed below in alph
 
 Host your project in a **private** Github repository, then add as collaborators:
 
-- alpalla
 - aydncnar
 - paolorovella
 - sibest19
