@@ -72,6 +72,8 @@ Host your project in a **private** GitHub repository, then add collaborators:
 - sibest19
 - tommaso-sebastianelli
 - valeriobelli
+- mahdieh-sedaghat
+- gionathas
 
 You can then email us the link once the project is ready for review.
 
